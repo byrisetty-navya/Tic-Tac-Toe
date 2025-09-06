@@ -19,3 +19,7 @@ A responsive web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. C
 
 <img width="1899" height="870" alt="Screenshot 2025-09-06 120618" src="https://github.com/user-attachments/assets/f69b54b2-ab80-4192-92a0-2bdd97f6564f" />
 
+
+<img width="1862" height="847" alt="Screenshot 2025-09-06 120909" src="https://github.com/user-attachments/assets/065524f2-30c1-40c8-b4da-f67d04e3f6f0" />
+
+
